@@ -1,0 +1,57 @@
+#RockHead {
+	float:center;
+	vertical-align: top;
+}
+body {
+	background-image: url("rocks.jpg");
+	background-repeat: repeat-y;
+	background-repeat: repeat-x;
+	font-family: Arial;
+	min-height:100%;
+	
+}
+#navBar{
+	font-family:'Cooper'
+	font-size: 30px;
+	text-align:left;
+	height: 100px;
+    width: 500px;
+	vertical-align: top;
+	background-color:Gray;	
+}
+
+#history{
+	height: 300px;
+    width: 500px;
+	float: center;
+	font-size:20px;
+	background-color:lightblue;	
+}
+
+#bestList{
+	float: right;
+	background-color:lightpink;
+	font-size:20px;
+}
+#workout{
+	float:center;
+	background-color:lightgray;
+	font-color:white;
+	
+}
+#mainContent{
+	padding: 5px;
+	background-color:lightred;
+}
+.workoutDay{
+	Color:Blue;
+	font-weight:800;
+	
+}
+
+.emphasis
+{
+	color:RED;
+	font-weight:800;
+}
+
